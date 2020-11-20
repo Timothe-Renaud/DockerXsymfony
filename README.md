@@ -32,7 +32,6 @@ docker-compose up -d --build
 
 ```
 docker exec -it php74-container bash
-  
 ```
 -- php74 etant le nom du neud de container forment le stack logik
 
