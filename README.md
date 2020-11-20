@@ -5,11 +5,13 @@ Docker said I'm fast as fuck boyyyyyyyyyy!
 
 - clone de project from: https://codeload.github.com/GaryClarke/nginx-php7.4-mysql8-node-docker-network/zip/master
 
-- "code . " in it
+```
+ "code . " in it
+```
 
 - run this commande 
 
-- ```powershell
+ ```
   docker-compose up -d --build
   
   ```
@@ -26,6 +28,4 @@ Docker said I'm fast as fuck boyyyyyyyyyy!
   docker exec -it php74-container bash
   :/var/www/project# composer create-project symfony/skeleton .
   ```
-
-- 
 
