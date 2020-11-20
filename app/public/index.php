@@ -1,3 +1,3 @@
 <?php
-echo'test from doscker';
+echo'test from docker';
 ?>
