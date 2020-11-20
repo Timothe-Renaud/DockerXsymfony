@@ -10,7 +10,7 @@ Detail du Stack:
 - Mysql8
 - php
 - Frameworks Symfony 5.x.x { skeleton project }
-# #-------------------------------------------------------------#
+# #-----------------------------START--------------------------------#
 - clone de project from: https://codeload.github.com/GaryClarke/nginx-php7.4-mysql8-node-docker-network/zip/master
 
 ```
