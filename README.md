@@ -3,6 +3,14 @@ Fast lightweight Docker network using PHP MySQL Nginx and Node
 
 Docker said I'm fast as fuck boyyyyyyyyyy!
 
+Ici vous ne trouverais que les files sources/de base pour le dev d'application en php.
+Detail du Stack:
+- Nginx
+- Node.js
+- Mysql8
+- php
+- Frameworks Symfony 5.x.x { skeleton project }
+
 - clone de project from: https://codeload.github.com/GaryClarke/nginx-php7.4-mysql8-node-docker-network/zip/master
 
 ```
