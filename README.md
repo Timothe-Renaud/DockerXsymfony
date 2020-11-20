@@ -26,8 +26,11 @@ docker-compose up -d --build
 docker exec -it php74-container bash
   
 ```
-- Install le skelette -> Symfony/skeleton  via :
+-- php74 etant le nom du neud de container forment le stack logik
+
+- Install le skelette -> symfony/skeleton  via :
 
 ```
 composer create-project symfony/skeleton .
 ```
+- Re-visite: http://localhost:8080/
